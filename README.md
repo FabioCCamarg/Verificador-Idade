@@ -1,5 +1,5 @@
 # VERIFICADOR DE IDADE
-## Exercicio
+## Exercício
 Criado uma página de Verificação de idade de uma determinada pessoa.
 Funcionalidade:
 - Insirir Ano de nascimento;
